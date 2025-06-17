@@ -16,3 +16,4 @@ The magnificent TODO app.
 
 ## Side goals
 - [ ] Stylize the website with UnoCSS or something similar
+- [ ] Write REST API test requests with Hoppscotch
