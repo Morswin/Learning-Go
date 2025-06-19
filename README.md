@@ -13,6 +13,7 @@ The magnificent TODO app.
   - [ ] Delete a Task
   - [ ] Complete a Task
 - [ ] Display the complete list of Tasks
+- [ ] Search for a task with a name containing provided string (no idea what algorithm to implement, so may as well go with some simple regex pattern matching over a list)
 
 ## Side goals
 - [ ] Stylize the website with UnoCSS or something similar
